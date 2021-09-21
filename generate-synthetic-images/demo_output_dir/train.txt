@@ -1,0 +1,16 @@
+demo_output_dir2/images/1_gaussian.jpg demo_output_dir2/annotations/1.xml
+demo_output_dir2/images/1_poisson.jpg demo_output_dir2/annotations/1.xml
+demo_output_dir2/images/1_none.jpg demo_output_dir2/annotations/1.xml
+demo_output_dir2/images/1_box.jpg demo_output_dir2/annotations/1.xml
+demo_output_dir2/images/1_motion.jpg demo_output_dir2/annotations/1.xml
+demo_output_dir2/images/2_gaussian.jpg demo_output_dir2/annotations/2.xml
+demo_output_dir2/images/2_poisson.jpg demo_output_dir2/annotations/2.xml
+demo_output_dir2/images/2_none.jpg demo_output_dir2/annotations/2.xml
+demo_output_dir2/images/2_box.jpg demo_output_dir2/annotations/2.xml
+demo_output_dir2/images/2_motion.jpg demo_output_dir2/annotations/2.xml
+demo_output_dir2/images/3_gaussian.jpg demo_output_dir2/annotations/3.xml
+demo_output_dir2/images/3_poisson.jpg demo_output_dir2/annotations/3.xml
+demo_output_dir2/images/3_none.jpg demo_output_dir2/annotations/3.xml
+demo_output_dir2/images/3_box.jpg demo_output_dir2/annotations/3.xml
+demo_output_dir2/images/3_motion.jpg demo_output_dir2/annotations/3.xml
+

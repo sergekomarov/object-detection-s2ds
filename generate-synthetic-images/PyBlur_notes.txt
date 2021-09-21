@@ -1,0 +1,9 @@
+Note on using PyBlur with Python 3
+
+Problem: Cannot import pyblur after the installation. 
+Example error: ModuleNotFoundError: No module named 'LineDictionary'
+
+This is due to the different syntax for py2 and py3. To fix this issue, 3 places needs to modified.
+	.	in pyblur/LinearMotionBlur.py line 8 change to : from .LineDictionary import LineDictionary
+	.	in pyblur/RandomizedBlur,py change all from xxx import xxx =>from .xxx import xxx
+	.	incompatibility in lickle load. change pyblur/PsfBlur.py", line 11: psfDictionary = pickle.load(pklfile) to psfDictionary = pickle.load(pklfile, encoding='latin1')
