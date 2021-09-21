@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Test-Images-jpg</folder>
+	<filename>IMG_1351.jpg</filename>
+	<path>C:\Users\Frederic Colomer\S2DSrep\Aug21_EPRI_CV\data\interim\Test-Images-jpg\IMG_1351.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AllenBradley</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1317</xmin>
+			<ymin>710</ymin>
+			<xmax>1463</xmax>
+			<ymax>996</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Siemens</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>444</xmin>
+			<ymin>354</ymin>
+			<xmax>517</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

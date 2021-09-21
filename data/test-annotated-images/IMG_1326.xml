@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test-Images-jpg</folder>
+	<filename>IMG_1326.jpg</filename>
+	<path>C:\Users\Frederic Colomer\S2DSrep\Aug21_EPRI_CV\data\interim\Test-Images-jpg\IMG_1326.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AllenBradley</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1077</xmin>
+			<ymin>1167</ymin>
+			<xmax>1266</xmax>
+			<ymax>1487</ymax>
+		</bndbox>
+	</object>
+</annotation>
