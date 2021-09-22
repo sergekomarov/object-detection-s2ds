@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 models/fine-tuned/efficient_det_1024_rand_aug_1_4/ckpt-13.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models/fine-tuned/efficient_det_1024_rand_aug_1_4/train/events.out.tfevents.1630624926.n-27a4c0b7-w-0.1.1.v2 filter=lfs diff=lfs merge=lfs -text
