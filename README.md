@@ -2,7 +2,7 @@
 
 The project aims to develop an object detection system to identify two types of controllers, Siemens S7-300 and Allen-Bradley (CompactLogix) L24ER-QB1B, in PLC cabinets.
 
-## Pre-requisites when running locally
+## Prerequisites when running locally
 
 1. Tensorflow
 2. Tensorflow Object Detection API
