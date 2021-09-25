@@ -1,6 +1,6 @@
 # Object-Detection-S2DS
 
-The project aims to develop an object detection system to identify two types of controllers, Siemens S7-300 and Allen-Bradley (CompactLogix) L24ER-QB1B, in PLC cabinets.
+The project aims to develop an object detection system to identify two types of controllers, Siemens S7-300 and Allen-Bradley (CompactLogix) L24ER-QB1B, in PLC cabinets for the purpose of inventory.
 
 Due to the lack of training data, only synthetic images are used for training. The method to generate synthetic data is described in `generate-synthetic-images`.
 
